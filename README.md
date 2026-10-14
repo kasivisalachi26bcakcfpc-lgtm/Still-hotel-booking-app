@@ -16,15 +16,12 @@ The Hotel Booking App is a user-friendly application that helps users search for
 - Help users manage their bookings.
 
 ## ✨ Features
-- **User Registration & Login:** Create an account and log in.
 - **Hotel Search:** Search for hotels based on location.
 - **Hotel Details:** View hotel images, facilities, and room information.
 - **Room Booking:** Select rooms and booking dates.
 - **Price Details:** View room prices and booking costs.
 - **Booking Confirmation:** Display booking confirmation details.
-- **My Bookings:** View and manage reservations.
-
-
+- 
 - **Design Tool:** Figma (for UI design and prototyping)
 
 
